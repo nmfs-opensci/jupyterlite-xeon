@@ -10,3 +10,4 @@ dependencies:
   - ipywidgets>=8.1.6
   - ipyleaflet
   - scipy
+  - xarray
