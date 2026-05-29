@@ -11,3 +11,7 @@ dependencies:
   - ipyleaflet
   - scipy
   - xarray
+  - zarr
+  - netcdf4
+  - pydap
+  - earthaccess
