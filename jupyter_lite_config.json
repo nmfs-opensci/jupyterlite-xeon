@@ -8,7 +8,7 @@
   "XeusAddon": {
     "environment_file": [
       "environment-python.yml",
-      "environment-r.yml",
+      "environment-r.yml"
     ]
   }
 }
